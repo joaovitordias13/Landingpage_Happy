@@ -46,4 +46,15 @@
         text-align: center;
         justify-content: center;
     }
+    @media(max-width: 640px){
+        padding: 40px;
+        &__logo {
+            height: 40px;
+        }
+        &__text{
+            font-size: 22px;
+            line-height: 24px;
+            margin: 24px;
+        }
+    }
 }
