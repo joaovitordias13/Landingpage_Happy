@@ -41,7 +41,8 @@
         }
     }
     &__player{
-        margin: 50px 330px;
+        padding: 0px;
+        margin-left:330px;
         width: 300px;
         text-align: center;
         justify-content: center;
@@ -56,5 +57,14 @@
             line-height: 24px;
             margin: 24px;
         }
+        &__player {
+            margin: 0;
+        }
     }
+    @media(max-width: 820px){
+        &__player {
+            margin: 0px 220px;
+        }
+    }
+ 
 }
