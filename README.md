@@ -31,7 +31,7 @@ https://landingpage-happy-i97p.vercel.app/
 <ul>
         <li>SASS: Utilizei o pré-processador SASS para escrever estilos CSS de forma mais eficiente, aproveitando recursos como variáveis, mixins e aninhamento.</li>
         <li>Vercel: A página está hospedada na Vercel, uma plataforma de hospedagem e implantação de sites. Através do Vercel, conseguimos disponibilizar a página de forma simples e rápida.</li>
-        <li>JavaScript: implementei a lógica e interatividade usando javascript para fazer o contador regressivo para o dia da festa do aniversário.</li>
+        <li>JavaScript: Implementei a lógica e interatividade usando javascript para fazer o contador regressivo para o dia da festa do aniversário.</li>
         <li>Parcel (Bundler): Utilizei o parcel para "empacotar" as aplicações web. Ele oferece uma performance extremamente rápida utilizando processamento multicore, sem a necessidade de configurações.
         </li>
         <li>Biblioteca AOS (Animate On Scroll): Essa biblioteca permite criar animações animadoras no scroll da página, tornando a experiência do usuário mais interativa e atraente.
